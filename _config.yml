@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "취준생"
+  avatar           : "/assets/images/쟝고.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "통계물리 석사 졸업을 앞둔 취준생의 블로그"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
