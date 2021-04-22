@@ -37,3 +37,9 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<head>
+  {% if page.use_math %}
+    {% include mathjax_support %}
+  {% endif %}
+</head>
